@@ -1,0 +1,19 @@
+DONE 1.) When click  -> Then start asking them questions about password criteria
+
+DONE 2.) 
+
+DONE 3.) After they answer the prompts --> check if its between 8 - 128
+        if correct --> Move on to asking questions || if NOT tell them they need a correct pick
+
+DONE 4.) Confirm if they want lowercase           
+        Confirm if they want uppercase
+        Confirm if they want special characters
+        Confirm if they want numeric
+
+DONE 5.) After they answer each prompt/confirm -> we have to check if they select at least one character type 
+        (At least one of the above have to be "Ok" all of them cant be "cancel") DONE!
+
+6.) When finished with prompts --> Then start to build password 
+    give the user a string based on what they've written 
+
+7.) When password is built --> then display on page as alert or put it in page 
