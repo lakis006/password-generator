@@ -16,4 +16,14 @@ DONE 5.) After they answer each prompt/confirm -> we have to check if they selec
 6.) When finished with prompts --> Then start to build password 
     give the user a string based on what they've written 
 
+        generate something that == length that the user wanted
+specialcharacters - where are these special characters stored, how are you access them to generate in the password
+same process applies to lower and uppercase letters -- in class, upper and lower case letters have different ASCII codes
+
+once you figure that out
+how many of each are you going to put into the password that is within the length that the user wants
+
+
+
 7.) When password is built --> then display on page as alert or put it in page 
+        after all is done --- append the password to DOM
